@@ -6,3 +6,7 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
+# Secrets and logs
+r2.env
+tools/upload-log.txt
+__pycache__/
